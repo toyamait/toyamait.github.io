@@ -1,0 +1,66 @@
+/* コメント */
+
+body {
+  color: #333;
+  background-color: #f8f8f8;
+  font-family: Verdana, sans-serif;
+  margin: 0;
+}
+header {
+}
+footer {
+  width: 960px;
+  margin: auto;
+}
+
+/* ワイヤーフレームここから */
+.site {
+  margin: auto;
+}
+.top-img {
+  max-height: 600px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+.top-img img{
+  width: 100%;
+}
+.container {
+  max-width: 620px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.content {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 1px 1px 2px #ddd;
+}
+/* ワイヤーフレームここまで */
+/* コンテンツここから */
+h1{
+  font-weight: bold;
+  font-size: 36px;
+  margin: 0;
+  margin-top: 1em;
+}
+h2 {
+  font-weight: bold;
+  font-size: 24px;
+  margin: 0;
+  margin-top: 1em;
+}
+.content-img {
+    text-align: center;
+}
+.content-img img {
+    max-width: 600px;
+}
+ul {
+  margin: 0;
+  padding-left: 40px;
+}
+p{
+  margin: 1em, 0;
+}
+/* コンテンツここまで */
